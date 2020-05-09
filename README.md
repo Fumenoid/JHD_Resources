@@ -3,3 +3,6 @@ Hey there, this repository will be/is managed by JHD_Bot, No PR's are allowed an
 
 Whenever the bot update the resource, it will leave a time stamp..
 Also if you are not in JHDiscord yet, join us here : discord.gg/Kgtnfw4
+
+Note - resources.md file has all resources before bot started managing it
+
