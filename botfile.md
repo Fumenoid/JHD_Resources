@@ -20,3 +20,9 @@ Message : https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/?utm_
 ## Pierce
 Message : https://www.sans.org/event/hackfest-ranges-summit-2020
 
+## Pierce
+Message : https://t.co/eEUDl8byFO
+
+## Pierce
+Message : Hrm.. maybe https://t.co/eEUDl8byFO?amp=1
+
