@@ -29,3 +29,15 @@ Message : Hrm.. maybe https://t.co/eEUDl8byFO?amp=1
 ## Paphi
 Message : <@!684831721077866514> I think its this one https://discordapp.com/channels/470253814235136040/470253814235136044/679759605206876220
 
+## Shadows_80
+Message : https://media.discordapp.net/attachments/470253814235136044/710177462927097957/image0.png
+
+-----
+## exist
+Message : https://mega.nz/file/dZlEkabR#RYhTRmk59a5spDg3tDDV4xFnZthcFEIBt4MbQo4xfAA
+
+-----
+## exist
+Message : https://zdresearch.com/training/advanced-web-hacking/
+
+-----
