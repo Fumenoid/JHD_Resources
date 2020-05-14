@@ -41,3 +41,7 @@ Message : https://mega.nz/file/dZlEkabR#RYhTRmk59a5spDg3tDDV4xFnZthcFEIBt4MbQo4x
 Message : https://zdresearch.com/training/advanced-web-hacking/
 
 -----
+## MadHatterX
+Message : Python Noted For Professionals > https://goalkicker.com/PythonBook/
+
+-----
