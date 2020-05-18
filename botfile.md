@@ -49,3 +49,19 @@ Message : Python Noted For Professionals > https://goalkicker.com/PythonBook/
 Message : WSL2 Network related > https://gcompagnon.github.io/wsl2/vnet/2019/10/17/WSL2_VNET.html
 
 -----
+## MadHatterX
+Message : Setup X11 forwarding in WSL2 and W10 > https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2
+
+-----
+## MadHatterX
+Message : Things to know when upgrading WSL1 to version WSL2 > https://scotch.io/bar-talk/trying-the-new-wsl-2-its-fast-windows-subsystem-for-linux
+
+-----
+## MadHatterX
+Message : Kali development for WSL2 > https://www.kali.org/news/wsl2-and-kali/
+
+-----
+## MadHatterX
+Message : Upgrading WSL1 > WSL2 : https://channel9.msdn.com/Shows/Tabs-vs-Spaces/WSL2-Code-faster-on-the-Windows-Subsystem-for-Linux
+
+-----
