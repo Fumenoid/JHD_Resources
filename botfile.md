@@ -65,3 +65,7 @@ Message : Kali development for WSL2 > https://www.kali.org/news/wsl2-and-kali/
 Message : Upgrading WSL1 > WSL2 : https://channel9.msdn.com/Shows/Tabs-vs-Spaces/WSL2-Code-faster-on-the-Windows-Subsystem-for-Linux
 
 -----
+## tourpran
+Message : https://guyinatuxedo.github.io/
+
+-----
