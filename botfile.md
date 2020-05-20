@@ -77,3 +77,7 @@ Message : https://youtu.be/DTV28KNs_j0
 Message : https://github.com/officialdarksheao/insta-kali Dockerfile for disposable hacking box, adding to it as I complete rooms. No keys, spoilers, or personal info in it.
 
 -----
+## pop_eax
+Message : https://foxglovesecurity.com/2017/02/07/type-juggling-and-php-object-injection-and-sqli-oh-my/
+
+-----
