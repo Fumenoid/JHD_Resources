@@ -81,3 +81,11 @@ Message : https://github.com/officialdarksheao/insta-kali Dockerfile for disposa
 Message : https://foxglovesecurity.com/2017/02/07/type-juggling-and-php-object-injection-and-sqli-oh-my/
 
 -----
+## pop_eax
+Message : https://habr.com/en/post/450054/
+
+-----
+## pop_eax
+Message : https://github.com/r0hi7/BinExp
+
+-----
