@@ -97,3 +97,7 @@ Message : https://www.cyberseclabs.co.uk
 Message : ​FREE Giveaway Programming / Ethical Hacking course by StationX https://giveaway.stationx.net/ref/kl39489332/
 
 -----
+## Deadly Sins
+Message : https://giveaway.stationx.net/ref/Hr39512046
+
+-----
