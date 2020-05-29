@@ -133,3 +133,7 @@ Are you an excelling secondary or post-secondary student? Want to make a differe
 For more information, join our virtual community of dedicated learners at https://discord.gg/YqESu2d
 
 -----
+## _Wh1t3r0se_
+Message : https://www.udemy.com/course/certified-ethical-hackingceh-course-may-2020-edition/?ranMID=39197&ranEAID=p4oHS4cJv%3FranMID%3D39197&ranEAID=ue*79h9bSBU&ranSiteID=ue.79h9bSBU-QV5Zow_vAv1lQW42zpb2sA&LSNPUBID=ue*79h9bSBU&utm_source=aff-campaign&utm_medium=udemyads&couponCode=GET-CERTIFICATE
+
+-----
