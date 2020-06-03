@@ -137,3 +137,7 @@ For more information, join our virtual community of dedicated learners at https:
 Message : https://www.udemy.com/course/certified-ethical-hackingceh-course-may-2020-edition/?ranMID=39197&ranEAID=p4oHS4cJv%3FranMID%3D39197&ranEAID=ue*79h9bSBU&ranSiteID=ue.79h9bSBU-QV5Zow_vAv1lQW42zpb2sA&LSNPUBID=ue*79h9bSBU&utm_source=aff-campaign&utm_medium=udemyads&couponCode=GET-CERTIFICATE
 
 -----
+## Bob l'éponge
+Message : https://www.reddit.com/r/learnpython/comments/guu0nq/automate_the_boring_stuff_with_python_online/
+
+-----
