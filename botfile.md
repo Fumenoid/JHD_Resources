@@ -141,3 +141,7 @@ Message : https://www.udemy.com/course/certified-ethical-hackingceh-course-may-2
 Message : https://www.reddit.com/r/learnpython/comments/guu0nq/automate_the_boring_stuff_with_python_online/
 
 -----
+## SnowHopper
+Message : a little old and in french but can be usefull i guess https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-010/
+
+-----
