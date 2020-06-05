@@ -149,3 +149,7 @@ Message : a little old and in french but can be usefull i guess https://www.cert
 Message : https://youtu.be/lQsKX92uTW8
 
 -----
+## rootsh3ll
+Message : https://packetlife.net/library/cheat-sheets/
+
+-----
