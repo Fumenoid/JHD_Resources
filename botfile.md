@@ -145,3 +145,7 @@ Message : https://www.reddit.com/r/learnpython/comments/guu0nq/automate_the_bori
 Message : a little old and in french but can be usefull i guess https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-010/
 
 -----
+## TheBuzz
+Message : https://youtu.be/lQsKX92uTW8
+
+-----
