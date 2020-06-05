@@ -157,3 +157,7 @@ Message : https://packetlife.net/library/cheat-sheets/
 Message : https://www.youtube.com/watch?v=HbgzrKJvDRw
 
 -----
+## Khaotic
+Message : https://github.com/EONRaider/blackhat-python3
+
+-----
