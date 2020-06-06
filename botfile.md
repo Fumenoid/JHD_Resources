@@ -161,3 +161,11 @@ Message : https://www.youtube.com/watch?v=HbgzrKJvDRw
 Message : https://github.com/EONRaider/blackhat-python3
 
 -----
+## pop_eax
+Message : <@!690202337817395319> https://github.com/danielmiessler/SecLists/tree/master/Discovery
+
+-----
+## pop_eax
+Message : https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt
+
+-----
