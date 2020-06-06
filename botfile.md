@@ -169,3 +169,11 @@ Message : <@!690202337817395319> https://github.com/danielmiessler/SecLists/tree
 Message : https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt
 
 -----
+## Pierce
+Message : https://github.com/DefensiveOrigins/APT06202001/tree/master/Lab-Build-PreReq - Want to learn the ELK stack? Here's your chance. Build your own lab. Provided by Black Hills.
+
+-----
+## Pierce
+Message : https://www.elastic.co/training/free
+
+-----
