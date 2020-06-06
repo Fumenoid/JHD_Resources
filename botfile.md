@@ -177,3 +177,7 @@ Message : https://github.com/DefensiveOrigins/APT06202001/tree/master/Lab-Build-
 Message : https://www.elastic.co/training/free
 
 -----
+## pop_eax
+Message : https://pentester.land/list-of-bug-bounty-writeups.html
+
+-----
