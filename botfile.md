@@ -190,3 +190,7 @@ Message : https://www.udemy.com/course/aws-ans-c00-advanced-networking-specialty
 Redeem before expire
 
 -----
+## pop_eax
+Message : https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+-----
