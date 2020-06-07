@@ -194,3 +194,23 @@ Redeem before expire
 Message : https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
 -----
+## xDevil
+Message : https://gtfobins.github.io/
+
+-----
+## pop_eax
+Message : http://shell-storm.org/shellcode/
+
+-----
+## xDevil
+Message : https://github.com/alphaSeclab/shellcode-resources/blob/master/Readme_en.md
+
+-----
+## pop_eax
+Message : https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
+
+-----
+## pop_eax
+Message : https://libc.blukat.me/
+
+-----
