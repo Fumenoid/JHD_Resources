@@ -222,3 +222,7 @@ Message : https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-S
 Message : https://javascript.info/
 
 -----
+## Nihilus
+Message : https://securelist.com/hacking-microcontroller-firmware-through-a-usb/89919/
+
+-----
