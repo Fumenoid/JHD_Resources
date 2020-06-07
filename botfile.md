@@ -214,3 +214,11 @@ Message : https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
 Message : https://libc.blukat.me/
 
 -----
+## pop_eax
+Message : https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf
+
+-----
+## pop_eax
+Message : https://javascript.info/
+
+-----
