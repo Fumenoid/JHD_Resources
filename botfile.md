@@ -226,3 +226,11 @@ Message : https://javascript.info/
 Message : https://securelist.com/hacking-microcontroller-firmware-through-a-usb/89919/
 
 -----
+## Nihilus
+Message : https://www.3dbrew.org/wiki/Main_Page
+
+-----
+## xDevil
+Message : <@!701838875810857010> https://github.com/Gr1mmie/Windows-Privilege-Escalation-Resources
+
+-----
