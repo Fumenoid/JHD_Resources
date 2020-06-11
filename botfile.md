@@ -234,3 +234,7 @@ Message : https://www.3dbrew.org/wiki/Main_Page
 Message : <@!701838875810857010> https://github.com/Gr1mmie/Windows-Privilege-Escalation-Resources
 
 -----
+## Mr Anarchy
+Message : https://www.udemy.com/course/windows-privilege-escalation/?referralCode=9A533B41ECB74227E574
+
+-----
