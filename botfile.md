@@ -238,3 +238,7 @@ Message : <@!701838875810857010> https://github.com/Gr1mmie/Windows-Privilege-Es
 Message : https://www.udemy.com/course/windows-privilege-escalation/?referralCode=9A533B41ECB74227E574
 
 -----
+## Mr Anarchy
+Message : https://www.udemy.com/course/windows-privilege-escalation
+
+-----
