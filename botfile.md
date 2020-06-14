@@ -242,3 +242,7 @@ Message : https://www.udemy.com/course/windows-privilege-escalation/?referralCod
 Message : https://www.udemy.com/course/windows-privilege-escalation
 
 -----
+## SystemExploited
+Message : if you ever wondered how printers get hacked , here is the way to go https://youtu.be/Kc17de0t7k0
+
+-----
