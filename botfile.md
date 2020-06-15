@@ -246,3 +246,7 @@ Message : https://www.udemy.com/course/windows-privilege-escalation
 Message : if you ever wondered how printers get hacked , here is the way to go https://youtu.be/Kc17de0t7k0
 
 -----
+## CuddleDeath
+Message : https://open-security-summit.org/
+
+-----
