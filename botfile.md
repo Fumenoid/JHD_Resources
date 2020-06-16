@@ -250,3 +250,7 @@ Message : if you ever wondered how printers get hacked , here is the way to go h
 Message : https://open-security-summit.org/
 
 -----
+## d4rckh
+Message : https://wportal.xyz/?ref=hackthebox happy lurking 😊
+
+-----
