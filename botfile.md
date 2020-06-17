@@ -254,3 +254,8 @@ Message : https://open-security-summit.org/
 Message : https://wportal.xyz/?ref=hackthebox happy lurking 😊
 
 -----
+## Rekamie
+Message : Industry-applied firmware analysis tool:
+https://github.com/fkie-cad/FACT_core
+
+-----
