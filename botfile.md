@@ -259,3 +259,8 @@ Message : Industry-applied firmware analysis tool:
 https://github.com/fkie-cad/FACT_core
 
 -----
+## MadHatterX
+Message : Some Browser Addon usefull 
+URL > https://medium.com/@NullByteWht/top-10-browser-extensions-for-hackers-osint-researchers-fca19b469158
+
+-----
