@@ -281,3 +281,7 @@ Message : Hey Guys it Would Be Appreciated if you guys check out my new video ! 
 Message : https://twitter.com/XssPayloads/status/1273902907075760128?s=20
 
 -----
+## pop_eax
+Message : https://medium.com/@SundownDEV/how-important-are-http-security-headers-ad511848eb95
+
+-----
