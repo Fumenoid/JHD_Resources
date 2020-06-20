@@ -312,3 +312,7 @@ Message : Hey there, My blog post about resources to learn from is up. https://p
 PS <@!329716761211699205> is also in this list 😛
 
 -----
+## MadHatterX
+Message : Start with Reverse Engineering > https://beginners.re/
+
+-----
