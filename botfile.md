@@ -293,3 +293,16 @@ Message : https://guyinatuxedo.github.io/index.html
 Message : Check my blog out. http://pratyakshaberi.tk
 
 -----
+## MadHatterX
+Message : <@!546674098789679144>  good to start here :p
+> https://www.coforge.com/blog/advanced-google-search-tips
+
+-----
+## Mr Anarchy
+Message : https://tenor.com/view/hacker-evil-black-hat-type-gif-16421985
+
+-----
+## Macro$
+Message : https://courses.stationx.net/p/hands-on-penetration-testing-labs-plus-kali-linux-snort-and-wireshark-bundle/?coupon_code=CYBERXREGULAR
+
+-----
