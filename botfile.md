@@ -306,3 +306,9 @@ Message : https://tenor.com/view/hacker-evil-black-hat-type-gif-16421985
 Message : https://courses.stationx.net/p/hands-on-penetration-testing-labs-plus-kali-linux-snort-and-wireshark-bundle/?coupon_code=CYBERXREGULAR
 
 -----
+## Pratyaksha Beri
+Message : Hey there, My blog post about resources to learn from is up. https://pratyakshahacker.wordpress.com/2020/06/20/top-resources-to-learn-hacking/ 
+
+PS <@!329716761211699205> is also in this list 😛
+
+-----
