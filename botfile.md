@@ -289,3 +289,7 @@ Message : https://medium.com/@SundownDEV/how-important-are-http-security-headers
 Message : https://guyinatuxedo.github.io/index.html
 
 -----
+## Pratyaksha Beri
+Message : Check my blog out. http://pratyakshaberi.tk
+
+-----
