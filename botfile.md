@@ -316,3 +316,16 @@ PS <@!329716761211699205> is also in this list 😛
 Message : Start with Reverse Engineering > https://beginners.re/
 
 -----
+## AshF0x🦊
+Message : My gathered RE Learning Resources https://www.notion.so/806c7afcbce24dc19e26fcd4b9c84f7b?v=ee1e96f93aaa46e2a2d11c9d70ed3a8b
+
+-----
+## Cringe solje
+Message : https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy
+
+-----
+## AshF0x🦊
+Message : The Beginner Bug Bounty Repo I maintain:
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+
+-----
