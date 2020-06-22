@@ -329,3 +329,7 @@ Message : The Beginner Bug Bounty Repo I maintain:
 https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 
 -----
+## larksprue
+Message : https://www.tldp.org/LDP/abs/html/abs-guide.html
+
+-----
