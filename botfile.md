@@ -333,3 +333,7 @@ https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 Message : https://www.tldp.org/LDP/abs/html/abs-guide.html
 
 -----
+## PjAwasthi09
+Message : https://medium.com/@pjcuber09/do-good-recon-b0a76c1d8659
+
+-----
