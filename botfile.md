@@ -341,3 +341,7 @@ Message : https://medium.com/@pjcuber09/do-good-recon-b0a76c1d8659
 Message : Hey Guys it would be appreciated if you guys check the video out ! https://www.youtube.com/watch?v=UjL0ydRclus
 
 -----
+## MadHatterX
+Message : Passwords for bruteforcing > https://wiki.skullsecurity.org/Passwords
+
+-----
