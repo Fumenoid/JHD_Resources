@@ -345,3 +345,7 @@ Message : Hey Guys it would be appreciated if you guys check the video out ! htt
 Message : Passwords for bruteforcing > https://wiki.skullsecurity.org/Passwords
 
 -----
+## Mr Anarchy
+Message : https://www.ethicalhacker.net/
+
+-----
