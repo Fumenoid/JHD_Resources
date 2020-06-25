@@ -349,3 +349,7 @@ Message : Passwords for bruteforcing > https://wiki.skullsecurity.org/Passwords
 Message : https://www.ethicalhacker.net/
 
 -----
+## Khaotic
+Message : https://discordapp.com/channels/473760315293696010/583622928957046809/725747890877890571
+
+-----
