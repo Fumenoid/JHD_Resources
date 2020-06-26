@@ -361,3 +361,15 @@ Message : https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-
 Message : https://youtu.be/sPaCMhOZ1e8
 
 -----
+## Naphal
+Message : Checkout this giveaway of OSCP vouchers put together by Marcus Carey and my employer ReliaQuest! https://www.offensive-security.com/offsec/offsec-giving-program/
+
+-----
+## Naphal
+Message : <@362622923057659915> Get in contact with  https://mobile.twitter.com/marcusjcarey on Twitter! He will be deciding who gets awarded the certificate vouchers.
+
+-----
+## Spam
+Message : http://securityidiots.com/Web-Pentest/WAF-Bypass/waf-bypass-guide-part-1.html
+
+-----
