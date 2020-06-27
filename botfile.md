@@ -385,3 +385,7 @@ Message : https://unescape-room.jobertabma.nl/
 Message : https://ctfchallenge.co.uk/
 
 -----
+## MadHatterX
+Message : Best USB-wifi adaptors for usage within kali > review > https://www.youtube.com/watch?v=0lqRZ3MWPXY
+
+-----
