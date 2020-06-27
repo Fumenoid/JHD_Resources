@@ -377,3 +377,11 @@ Message : http://securityidiots.com/Web-Pentest/WAF-Bypass/waf-bypass-guide-part
 Message : Hey Just Posted a Cool Video Check it out 😉 https://youtu.be/QTAKmINxKZA
 
 -----
+## pop_eax
+Message : https://unescape-room.jobertabma.nl/
+
+-----
+## pop_eax
+Message : https://ctfchallenge.co.uk/
+
+-----
