@@ -401,3 +401,9 @@ Message : Learning Network-Topology > https://study-ccna.com/what-is-a-network/
 Message : Check up or down of website > https://www.isitdownrightnow.com/
 
 -----
+## Kartikey15
+Message : https://youtu.be/AfVH54edAHU
+
+## Spam
+Message : https://www.udemy.com/course/automate/?couponCode=JUL2020FREE
+
