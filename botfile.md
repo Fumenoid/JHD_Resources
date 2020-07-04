@@ -410,3 +410,6 @@ Message : https://www.udemy.com/course/automate/?couponCode=JUL2020FREE
 ## Kartikey15
 Message : https://github.com/enaqx/awesome-pentest
 
+## pop_eax
+Message : https://www.docdroid.net/ZBiCORE/untitled-documentmd-pdf
+
