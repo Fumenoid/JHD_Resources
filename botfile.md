@@ -421,3 +421,11 @@ Message : 🔰Java [2hrs]
 
 https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=24913CFF1
 
+## pop_eax
+Message : > Hey there , I want to increase my python skills to like GOD level , I know practice plays a major role but there are soo many things that I don't know about so any resources or anything that may help in boost my python would be gr8.
+<@!481855740558966785> https://codesignal.com/
+https://projecteuler.net/
+
+## pop_eax
+Message : https://leetcode.com/
+
