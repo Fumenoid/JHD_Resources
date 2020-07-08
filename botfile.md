@@ -435,3 +435,6 @@ Message : https://bordplate.no/blog/en/post/interactive-rop-tutorial/
 ## Enox
 Message : https://github.com/CsEnox/kamikakushi/blob/master/Box_Creation_Tutorial_by_Enox.pdf anyways to any of you out there who needs a guide on how to create boxes
 
+## Enox
+Message : Updated Link : https://csenox.github.io/howtocreatebox.html
+
