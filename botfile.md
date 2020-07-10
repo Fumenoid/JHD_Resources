@@ -444,3 +444,6 @@ Message : https://github.com/enaqx/awesome-pentest/blob/master/README.md
 ## Nya0
 Message : https://github.com/Nya0/recaptcha-v2-bypass
 
+## Khaotic
+Message : http://blog.dornea.nu/2015/02/19/redirect-androids-traffic-to-burp/
+
