@@ -447,3 +447,6 @@ Message : https://github.com/Nya0/recaptcha-v2-bypass
 ## Khaotic
 Message : http://blog.dornea.nu/2015/02/19/redirect-androids-traffic-to-burp/
 
+## Khaotic
+Message : https://KhaoticDev.net/?page_id=1379
+
