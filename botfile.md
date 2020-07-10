@@ -441,3 +441,6 @@ Message : Updated Link : https://csenox.github.io/howtocreatebox.html
 ## Kartikey15
 Message : https://github.com/enaqx/awesome-pentest/blob/master/README.md
 
+## Nya0
+Message : https://github.com/Nya0/recaptcha-v2-bypass
+
