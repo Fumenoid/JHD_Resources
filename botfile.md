@@ -450,3 +450,9 @@ Message : http://blog.dornea.nu/2015/02/19/redirect-androids-traffic-to-burp/
 ## Khaotic
 Message : https://KhaoticDev.net/?page_id=1379
 
+## Enox
+Message : https://csenox.github.io/domaincontroller.html Setting Up DC ( AD LAB )
+
+## Enox
+Message : https://tenor.com/view/monkey-surprised-shocked-oh-no-oh-god-gif-5385689
+
