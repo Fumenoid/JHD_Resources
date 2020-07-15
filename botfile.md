@@ -456,3 +456,6 @@ Message : https://csenox.github.io/domaincontroller.html Setting Up DC ( AD LAB 
 ## Enox
 Message : https://tenor.com/view/monkey-surprised-shocked-oh-no-oh-god-gif-5385689
 
+## Enox
+Message : https://csenox.github.io/client.html Setting Up CLIENT (AD LAB)
+
