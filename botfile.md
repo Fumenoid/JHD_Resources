@@ -459,3 +459,9 @@ Message : https://tenor.com/view/monkey-surprised-shocked-oh-no-oh-god-gif-53856
 ## Enox
 Message : https://csenox.github.io/client.html Setting Up CLIENT (AD LAB)
 
+## Liikt
+Message : here some browser exploit resources:
+https://blog.perfect.blue/Chromium-Fullchain
+https://hxp.io/blog/74/0CTF-2020-writeups/#chromium-rce
+https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html
+
