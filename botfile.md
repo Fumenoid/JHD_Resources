@@ -468,3 +468,6 @@ https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html
 ## alias
 Message : https://medium.com/@techathena/ways-to-secure-cloud-tpm-and-hsm-61fbe6c104e5
 
+## EuanB26
+Message : SANS Digital Forensics Incident Response summit and courseware for FREE happening today and tomorrow 👀 https://www.sans.org/event/digital-forensics-summit-2020
+
