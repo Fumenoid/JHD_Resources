@@ -465,3 +465,6 @@ https://blog.perfect.blue/Chromium-Fullchain
 https://hxp.io/blog/74/0CTF-2020-writeups/#chromium-rce
 https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html
 
+## alias
+Message : https://medium.com/@techathena/ways-to-secure-cloud-tpm-and-hsm-61fbe6c104e5
+
