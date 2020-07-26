@@ -471,3 +471,7 @@ Message : https://medium.com/@techathena/ways-to-secure-cloud-tpm-and-hsm-61fbe6
 ## EuanB26
 Message : SANS Digital Forensics Incident Response summit and courseware for FREE happening today and tomorrow 👀 https://www.sans.org/event/digital-forensics-summit-2020
 
+## MadHatterX
+Message : WSL2 networking one step closer, find out here the work-arounds
+https://www.youtube.com/watch?v=yCK3easuYm4
+
