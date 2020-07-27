@@ -478,3 +478,6 @@ https://www.youtube.com/watch?v=yCK3easuYm4
 ## Pierce
 Message : https://easyupload.io/mb62x9 Mastering Malware - Packt Book(I entered my info so you don't have to for the free download)
 
+## darksheao
+Message : https://officialdarksheao.github.io/guides/manjaro_on_hyperv because making arch and hyper-v play nicely is a little quirky
+
