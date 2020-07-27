@@ -481,3 +481,6 @@ Message : https://easyupload.io/mb62x9 Mastering Malware - Packt Book(I entered 
 ## darksheao
 Message : https://officialdarksheao.github.io/guides/manjaro_on_hyperv because making arch and hyper-v play nicely is a little quirky
 
+## Carl
+Message : https://rserver.ml has helpful hacking tools on github
+
