@@ -475,3 +475,6 @@ Message : SANS Digital Forensics Incident Response summit and courseware for FRE
 Message : WSL2 networking one step closer, find out here the work-arounds
 https://www.youtube.com/watch?v=yCK3easuYm4
 
+## Pierce
+Message : https://easyupload.io/mb62x9 Mastering Malware - Packt Book(I entered my info so you don't have to for the free download)
+
