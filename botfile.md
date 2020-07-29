@@ -492,3 +492,6 @@ https://github.com/navneetmuffin/resources
 Message : Reversing / Malware Analysis / Assembly -resources
 https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121
 
+## .Kryptos
+Message : https://wportal.xyz/collection/kryptos-web1
+
