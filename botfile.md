@@ -484,3 +484,7 @@ Message : https://officialdarksheao.github.io/guides/manjaro_on_hyperv because m
 ## Carl
 Message : https://rserver.ml has helpful hacking tools on github
 
+## muffin
+Message : Reversing / Malware Analysis / Assembly -resources
+https://github.com/navneetmuffin/resources
+
