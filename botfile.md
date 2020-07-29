@@ -488,3 +488,7 @@ Message : https://rserver.ml has helpful hacking tools on github
 Message : Reversing / Malware Analysis / Assembly -resources
 https://github.com/navneetmuffin/resources
 
+## muffin
+Message : Reversing / Malware Analysis / Assembly -resources
+https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121
+
