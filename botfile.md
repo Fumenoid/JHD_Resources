@@ -504,3 +504,6 @@ Message : Hey Guys check it out ! Make Sure to Like and Subscribe ! https://www.
 ## pop_eax
 Message : making a CTF challenge https://pop-eax.github.io/blog/posts/ctf-writeup/web/2020/08/01/h-cktivitycon-ctf-specialorder/
 
+## pop_eax
+Message : https://maxkersten.nl/binary-analysis-course/
+
