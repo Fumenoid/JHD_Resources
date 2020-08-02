@@ -507,3 +507,6 @@ Message : making a CTF challenge https://pop-eax.github.io/blog/posts/ctf-writeu
 ## pop_eax
 Message : https://maxkersten.nl/binary-analysis-course/
 
+## pop_eax
+Message : crafting dns packets by hand https://routley.io/posts/hand-writing-dns-messages/
+
