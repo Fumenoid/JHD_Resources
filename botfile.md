@@ -510,3 +510,6 @@ Message : https://maxkersten.nl/binary-analysis-course/
 ## pop_eax
 Message : crafting dns packets by hand https://routley.io/posts/hand-writing-dns-messages/
 
+## pop_eax
+Message : https://vj0shii.info/multi-factor-auth-bypass-with-password-reset-function/
+
