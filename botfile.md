@@ -519,3 +519,9 @@ Message : https://cje.io/blog/2020/07/30/wtf-is-on-tcp-0-2020/
 ## HackProAIT
 Message : https://www.helpnetsecurity.com/2020/08/04/free-tool-reverse-engineering/
 
+## pop_eax
+Message : https://blog.p6.is/AST-Injection/
+
+## pop_eax
+Message : really cool and simple challenge https://cyberscavengerhunt.com/
+
