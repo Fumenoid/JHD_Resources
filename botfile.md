@@ -513,3 +513,6 @@ Message : crafting dns packets by hand https://routley.io/posts/hand-writing-dns
 ## pop_eax
 Message : https://vj0shii.info/multi-factor-auth-bypass-with-password-reset-function/
 
+## pop_eax
+Message : https://cje.io/blog/2020/07/30/wtf-is-on-tcp-0-2020/
+
