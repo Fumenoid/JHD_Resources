@@ -525,3 +525,6 @@ Message : https://blog.p6.is/AST-Injection/
 ## pop_eax
 Message : really cool and simple challenge https://cyberscavengerhunt.com/
 
+## pop_eax
+Message : https://github.com/cure53/XSSChallengeWiki/wiki/prompt.ml
+
