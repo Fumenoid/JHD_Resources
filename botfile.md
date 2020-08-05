@@ -528,3 +528,6 @@ Message : really cool and simple challenge https://cyberscavengerhunt.com/
 ## pop_eax
 Message : https://github.com/cure53/XSSChallengeWiki/wiki/prompt.ml
 
+## pop_eax
+Message : https://slides.com/securitymb/prototype-pollution-in-kibana
+
