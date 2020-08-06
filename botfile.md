@@ -531,3 +531,6 @@ Message : https://github.com/cure53/XSSChallengeWiki/wiki/prompt.ml
 ## pop_eax
 Message : https://slides.com/securitymb/prototype-pollution-in-kibana
 
+## pop_eax
+Message : http://muffsec.com/blog/?p=608
+
