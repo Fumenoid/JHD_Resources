@@ -534,3 +534,8 @@ Message : https://slides.com/securitymb/prototype-pollution-in-kibana
 ## pop_eax
 Message : http://muffsec.com/blog/?p=608
 
+## muffin
+Message : **Updated**
+Reversing / Malware Analysis / Assembly -resources
+https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121
+
