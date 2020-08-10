@@ -542,3 +542,6 @@ https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121
 ## Pierce
 Message : https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra
 
+## pop_eax
+Message : https://github.com/RenwaX23/XSS-Payloads/blob/master/Without-Parentheses.md
+
