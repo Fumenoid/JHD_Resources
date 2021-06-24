@@ -1,7 +1,9 @@
 # 7oaster [OSINT Wizard]
 Garlic: A metadata based search engine API for the Tor network.
-```Welcome to the Garlic project.
-Garlic is a experimental research project that keeps track of various bits of metadata about sites running on the Tor network.```
+```
+Welcome to the Garlic project.
+Garlic is a experimental research project that keeps track of various bits of metadata about sites running on the Tor network.
+```
 https://osint.party/
 
 # 7oaster [OSINT Wizard]
